@@ -1,0 +1,27 @@
+dateModified: 1671803186
+email:
+  fromEmail: danlakelake@gmail.com
+  fromName: craft-project
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    4f90b221-3c94-4f6b-a73f-51d213f694d6: craft-project # craft-project
+    6a4288db-5522-43e8-873d-a7ee5318f790: craft-project # craft-project
+    a96afe75-318d-4fe3-b7e4-a230af8fa569: Common # Common
+plugins:
+  contact-form:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: craft-project
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
